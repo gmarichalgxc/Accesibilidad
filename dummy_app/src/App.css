@@ -1,0 +1,80 @@
+body {
+  
+  display: block;
+  background-color: whitesmoke;
+  
+
+}
+
+.nav-shadow {
+  box-shadow: 0 5px 20px 5px grey;
+}
+
+.btn-green {
+  background-color: darkgreen;
+  color: white;
+}
+
+.btn-green:hover {
+  background-color: darkgreen;
+  color: white;
+  text-decoration: underline;
+
+}
+
+.btn-blue {
+  background: #21174c;
+  color: white;
+}
+
+.btn-red {
+  background: rgb(243, 113, 113);
+  color: white;
+
+}
+
+.btn-red:hover {
+  background: rgb(243, 113, 113);
+  color: white;
+  text-decoration: underline;
+}
+
+.btn-blue:hover {
+  background: #21174c;
+  color: white;
+  text-decoration: underline;
+}
+
+
+.content {
+  margin: auto;
+  width: 40%;
+}
+
+.banner {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+
+
+.App-logo {
+  height: 15vmin;
+}
+
+h1, h2, label, p {
+  color: #1e2584;
+  font-family: 'Roboto Mono', monospace;
+}
+
+
+
+.form {
+  
+  border: solid #1e2584 3px;
+  border-radius: 15px;
+  padding-left: 16px; 
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
